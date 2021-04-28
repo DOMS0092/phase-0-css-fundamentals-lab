@@ -3,3 +3,84 @@ body {
   height: 100%;
   margin: 0;
 }
+
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+h1 {text-align: center;}
+
+hearder {
+  text-align: center;
+}
+
+img {
+  margin: auto;
+  display: block;
+}
+
+nav {
+  text-align: center;
+}
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background: rgb(216, 210, 210);
+  font-size: x-large;
+}
+
+figcaption {
+  font-size: medium;
+  text-align: center;
+}
+
+#feature-property p {
+ text-align: center;
+ width: 800px;
+ line-height: 800px;
+}
+
+#details div {
+ width: 25%;
+ float: left;
+ background-color: red;
+ text-align: center;
+ }
+
+ #detail div span {
+  color: black;
+  margin: 1px;
+ }
+
+.detail {
+  display: block;
+  text-align: center;
+}
+
+
+/* "auto" makes the left and right margins center the wrapper */
+#wrap { 
+  width: 900px; 
+  margin: auto; 
+}
+.center {
+  display: block; 
+  margin-left: auto;
+  width: 100%;
+}
+
+P { text-align: center }
+H3 { text-align: center }
+
+p {
+  display: block;
+  margin: auto;
+  width: 800px 
+}
+.center feature-property {
+  display: block;
+  margin: auto;
+  width: 100%;
+}
+
